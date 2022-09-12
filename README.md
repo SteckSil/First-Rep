@@ -1,8 +1,2 @@
 # First-Rep
-class bn {
-
-  public static void main(String [] args){
-    System.out.println("hello world");
-  }
-  
-}
+The purpose of the file is to give an overview of the contents of this project you are sharing.
